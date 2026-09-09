@@ -1,0 +1,10 @@
+{
+  "network": "StudioNet",
+  "contractAddress": "0x50CA0f6831d9b9f15740e7cA922E6b09ef6b5896",
+  "deploymentTransaction": "0x023bf6dec98a86993b63f778a3fbe5cadb0329be7e5b0b8366e01141f6f59603",
+  "sourceCommit": "d48b952eba2773bc8edb35134bd734e61e513ebb",
+  "contractSha256": "0faf3efed8c23c621b68086969ef450bc49a2848472f69e5d8ce352b41803da5",
+  "deployer": "ACCOUNT_2 / warnedwarn",
+  "receiptStatus": "ACCEPTED",
+  "liveSmokeTransaction": "0x74b69eec0d1efb217e78347a88821011ba71b5171692418f1a64905fc30aa2af"
+}
